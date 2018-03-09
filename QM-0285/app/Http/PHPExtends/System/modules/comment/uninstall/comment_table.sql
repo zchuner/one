@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS `qm_comment_table`;
